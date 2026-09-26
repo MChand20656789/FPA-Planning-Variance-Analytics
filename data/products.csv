@@ -1,0 +1,13 @@
+sku,product,category,selling_price,unit_cogs
+SKU001,Organic Matcha,Beverages,18.0,7.2
+SKU002,Mochi Snack,Snacks,12.0,4.8
+SKU003,Protein Bar,Snacks,10.0,4.1
+SKU004,Green Tea,Beverages,14.0,5.6
+SKU005,Coconut Chips,Snacks,9.0,3.7
+SKU006,Fruit Gummies,Snacks,8.0,3.2
+SKU007,Coffee Blend,Beverages,16.0,6.8
+SKU008,Oat Cookies,Snacks,11.0,4.5
+SKU009,Electrolyte Mix,Wellness,20.0,8.5
+SKU010,Collagen Powder,Wellness,28.0,12.0
+SKU011,Chia Pudding,Wellness,13.0,5.4
+SKU012,Almond Spread,Pantry,15.0,6.2
