@@ -4,6 +4,10 @@ A financial planning and analysis system built with Python, SQL, SQLite, and Str
 
 The project simulates a consumer-products business with 12 SKUs, multiple sales channels, departmental operating expenses, inventory data, monthly budgets, and financial forecasts.
 
+### Demo Video
+
+https://github.com/user-attachments/assets/2f36c6ad-2b36-47e7-8187-d88f3f3e33c9
+
 ## Project Overview
 
 This project demonstrates how raw operational and financial data can be transformed into management-ready financial analysis.
